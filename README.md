@@ -1,2 +1,2 @@
 # mycv
-My Curriculum Vitae
+Thats my Curriculum Vitae made for professional purposes, hope you enjoy.
